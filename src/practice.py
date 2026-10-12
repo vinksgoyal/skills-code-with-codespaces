@@ -1,0 +1,1 @@
+print("Codespaces practice")
