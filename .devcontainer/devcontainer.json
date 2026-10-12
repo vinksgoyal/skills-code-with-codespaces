@@ -1,4 +1,4 @@
 {
-  "name": "Python Codespace",
-  "image": "mcr.microsoft.com/devcontainers/python:3"
+  "name": "Codespaces Customization",
+  "image": "mcr.microsoft.com/devcontainers/base:debian"
 }
